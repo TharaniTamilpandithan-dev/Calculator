@@ -18,10 +18,5 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
 
 ---
 
-## 🖼️ Preview
-(Add a screenshot or GIF of your calculator UI here once hosted)
-
----
-
 ## 🔗 Live Demo
 [Click here to try the Calculator](tharanitamilpandithan-dev-calculator.netlify.app)
