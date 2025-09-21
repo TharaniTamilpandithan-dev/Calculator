@@ -17,3 +17,4 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
 
 ## 🔗 Live Demo
 [Click here to try the Calculator](tharanitamilpandithan-dev-calculator.netlify.app)
+
